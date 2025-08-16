@@ -122,7 +122,7 @@ DizoCipher-v1.1.0  includes an update system to stay current with the latest fea
 
 This tool is provided for cybersecurity educational and research purposes only. Users assume all responsibility for how they use this software.
 
-Please read the full [DISCLAIMER.md](DISCLAIMER.md) before using this tool.
+Please read the full [DISCLAIMER.md](DISCLAIMER.MD) before using this tool.
 
 **⚠️ API Key Warning ⚠️**
 
