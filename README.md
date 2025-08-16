@@ -44,15 +44,15 @@ DizoCipher-v1.1.0 provides powerful unrestricted AI capabilities:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Dizodee/DizoCipher.git
-   cd DizoCipher
+   git clone https://github.com/Dizodee/DizoCipher-v1.1.0.git
+   cd DizoCipher-v1.1.0 
    
 2. Run the script:
    ```bash
-   python darkgpt.py
+   python dizocipher.py
    ```
 
-3. DarkGPT Lite will:
+3. DizoCipher-v1.1.0 will:
    - Automatically create a virtual environment
    - Install all required dependencies
    - Prompt you for your OpenAI API key on first run
@@ -94,7 +94,7 @@ DizoCipher-v1.1.0 can help create and manage code projects:
 
 ### Changing AI Models
 
-DarkGPT Lite supports several AI models:
+DizoCipher-v1.1.0 supports several AI models:
 - `gpt-3.5-turbo`: Default model, balanced performance and cost
 - `gpt-3.5-turbo-16k`: Extended context window
 - `gpt-4-turbo`: Enhanced capabilities (higher cost)
@@ -110,7 +110,7 @@ The system message defines how the AI responds to queries. You can modify it to:
 
 ## Updates
 
-DarkGPT Lite includes an update system to stay current with the latest features:
+DizoCipher-v1.1.0  includes an update system to stay current with the latest features:
 
 1. Select "Check for Updates" from the main menu
 2. The tool will compare your version with the latest on GitHub
