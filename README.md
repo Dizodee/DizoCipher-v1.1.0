@@ -3,7 +3,7 @@
 # 🤖 DizoCipher-v1.1.0
 
 <p align="center">
-  <img src="dizocipher_logo.png" alt="DizoCipher Logo" width="300" />
+  <img src="https://raw.githubusercontent.com/Dizodee/DizoCipher-v1.1.0/main/dizocipher_logo.png" alt="DizoCipher Logo" width="300" />
 </p>
 
 <p align="center">
